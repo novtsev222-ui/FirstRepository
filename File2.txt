@@ -1,0 +1,3 @@
+Good night, Dmitriy!
+как поднять сервер в докере.
+past git diff
